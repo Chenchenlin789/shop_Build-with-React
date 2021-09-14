@@ -8,28 +8,28 @@ let items = [
   },
   {
     imgUrl: "/img/02-Lifestyle.png",
-    itemName: "Books",
-    itemPrice: 39,
+    itemName: "Backpack",
+    itemPrice: 79,
   },
   {
     imgUrl: "/img/01-Books.png",
-    itemName: "Headphone",
-    itemPrice: 99,
+    itemName: "Book",
+    itemPrice: 39,
   },
   {
     imgUrl: "/img/29-Lifestyle_b-o.png",
-    itemName: "Backpack",
+    itemName: "Headphone",
     itemPrice: 119,
   },
   {
     imgUrl: "/img/45-Home_hem.png",
-    itemName: "Painting",
-    itemPrice: 189,
+    itemName: "Sofa",
+    itemPrice: 1289,
   },
   {
     imgUrl: "/img/46-Home_bm.png",
-    itemName: "Sofa",
-    itemPrice: 1289,
+    itemName: "Painting",
+    itemPrice: 189,
   },
 ];
 

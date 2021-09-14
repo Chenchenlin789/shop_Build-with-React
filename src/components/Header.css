@@ -24,7 +24,7 @@ header p:first-child {
 }
 
 header p:last-child {
-  padding-left: 3%;
+  padding-left: 5%;
   padding-right: 3%;
 }
 header p:nth-of-type(2) {

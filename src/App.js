@@ -15,7 +15,9 @@ function App() {
         <Section></Section>
         <Section></Section>
       </div> */}
-      <Info></Info>
+      <div className="info">
+        <Info></Info>
+      </div>
       <Footer></Footer>
     </div>
   );
