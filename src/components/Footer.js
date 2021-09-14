@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer>
+    <footer className="flex">
       <p> @2021 The Design Shop</p>
       <ul>
         <li>Disclaimer</li>

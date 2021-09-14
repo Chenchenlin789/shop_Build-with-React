@@ -1,6 +1,6 @@
 import "./App.css";
 import Info from "./components/Info";
-import Section from "./components/Section";
+import ItemList from "./components/ItemList";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
@@ -8,14 +8,15 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Section></Section>
-      <Section></Section>
-      <Section></Section>
-      <Section></Section>
+      <div>
+        <ItemList></ItemList>
+      </div>
+      {/* <div className="flex">
+        <Section></Section>
+        <Section></Section>
+      </div> */}
       <Info></Info>
       <Footer></Footer>
-
-      <header className="App-header"></header>
     </div>
   );
 }

@@ -10,7 +10,7 @@ const Header = () => {
         <li>Books</li>
         <li>Digital</li>
       </ul>
-      <p> Weekly Pcks</p>
+      <p> Weekly Picks</p>
       <p> The Design Blog</p>
     </header>
   );
